@@ -1,0 +1,574 @@
+/* Bloque de titulos */
+
+p.titulo{
+	font-family: 'Raleway';
+	font-size: 350%;
+	color: white;
+}
+p.subtitulos{
+	font-family: 'Playfair Display', serif;
+	margin-left: 0%;
+	font-size: 230%;
+	color: black;
+}
+
+/* Bloque de imagenes */
+
+img.aux{
+	content: url("../Media/Image/tesla1.jpg");
+	margin-top: 30px;
+	margin-left: 260px;
+	width: 80%;
+	opacity: 0.9;
+	border-style: solid;
+	border-color: #A9A9A9;
+	border-width: 5px;
+}
+img.VonN{
+	content: url("../Media/Image/DvonNeuman.png");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.Harvard{
+	content: url("../Media/Image/Dharvard.png");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.div{
+	content: url("../Media/Image/div.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+
+img.iiemw{
+	content: url("../Media/Image/iiemw.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+
+img.r{
+	content: url("../Media/Image/R.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+
+img.smp{
+	content: url("../Media/Image/smp.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+
+img.cluster{
+	content: url("../Media/Image/cluster.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.cpu{
+	content: url("../Media/Image/cpu.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.ual{
+	content: url("../Media/Image/ual.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.dl{
+	content: url("../Media/Image/dl.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.da1{
+	content: url("../Media/Image/da1.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.da2{
+	content: url("../Media/Image/da2.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.da0{
+	content: url("../Media/Image/da0.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.dc{
+	content: url("../Media/Image/dc.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.dalu{
+	content: url("../Media/Image/dalu.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.udc{
+	content: url("../Media/Image/Udc.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.cad{
+	content: url("../Media/Image/cad.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.ieb{
+	content: url("../Media/Image/ieb.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.finb{
+	content: url("../Media/Image/finb.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.alm{
+	content: url("../Media/Image/alm.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.m2{
+	content: url("../Media/Image/m2.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.m1{
+	content: url("../Media/Image/m1.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.mf{
+	content: url("../Media/Image/mf.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.ms{
+	content: url("../Media/Image/ms.jpg");
+	width: 30%;
+	margin-left: 35%;
+	margin-right: auto;
+}
+img.me{
+	content: url("../Media/Image/me.jpg");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.FCPU{
+	content: url("../Media/Image/FCPU.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.I9{
+	content: url("../Media/Image/I9.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.ER{
+	content: url("../Media/Image/ER.jpg");
+	width: 100%;
+	margin-left: 0;
+	margin-right: auto;
+}
+img.RCE{
+	content: url("../Media/Image/RCE.jpg");
+	width: 100%;
+	margin-left: 0;
+	margin-right: auto;
+}
+img.registros{
+	content: url("../Media/Image/registros.PNG");
+	width: 90%;
+	margin-left: 5%;
+	margin-right: auto;
+}
+img.CFT{
+	content: url("../Media/Image/CFT.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.SI{
+	content: url("../Media/Image/SI.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.ModoR{
+	content: url("../Media/Image/ModoR.png");
+	width: 50%;
+	margin-left: 25%;
+	margin-right: auto;
+}
+img.ModoInm{
+	content: url("../Media/Image/ModoInm.png");
+	width: 50%;
+	margin-left: 25%;
+	margin-right: auto;
+}
+img.ModoD{
+	content: url("../Media/Image/ModoD.png");
+	width: 50%;
+	margin-left: 25%;
+	margin-right: auto;
+}
+img.ModoInd{
+	content: url("../Media/Image/ModoInd.png");
+	width: 50%;
+	margin-left: 25%;
+	margin-right: auto;
+}
+img.ModoP{
+	content: url("../Media/Image/ModoP.jpg");
+	width: 50%;
+	margin-left: 25%;
+	margin-right: auto;
+}
+img.Chips{
+	content: url("../Media/Image/Chips.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.punps{
+	content: url("../Media/Image/punps.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.cpu4{
+	content: url("../Media/Image/cpu4.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.cdbus{
+	content: url("../Media/Image/cdbus.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.Pdes{
+	content: url("../Media/Image/Pdes.jpg");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.puertos2{
+	content: url("../Media/Image/puertos2.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.Contdei{
+	content: url("../Media/Image/Contdei.jpg");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.dma{
+	content: url("../Media/Image/dma.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.Cdet{
+	content: url("../Media/Image/Cdet.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.Cdec{
+	content: url("../Media/Image/Cdec.jpg");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.hdd{
+	content: url("../Media/Image/hdd.jpg");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.almex{
+	content: url("../Media/Image/almex.jpg");
+	width: 90%;
+	margin-left: 5%;
+	margin-right: auto;
+}
+img.almnube{
+	content: url("../Media/Image/almnube.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.fuenteal{
+	content: url("../Media/Image/fuenteal.jpg");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.Comercioelc{
+	content: url("../Media/Image/Comercioelc.png");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.aspdc{
+	content: url("../Media/Image/aspdc.png");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.Leyamd{
+	content: url("../Media/Image/Leyamd.png");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.leygust{
+	content: url("../Media/Image/leygust.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.sysd{
+	content: url("../Media/Image/sysd.png");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.misd{
+	content: url("../Media/Image/misd.jpg");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.simd{
+	content: url("../Media/Image/simd.png");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.mimd{
+	content: url("../Media/Image/mimd.png");
+	width: 60%;
+	margin-left: 20%;
+	margin-right: auto;
+}
+img.pnbt{
+	content: url("../Media/Image/pnbt.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.parni{
+	content: url("../Media/Image/parni.png");
+	width: 100%;
+	margin-left: 0%;
+	margin-right: auto;
+}
+img.pnddat{
+	content: url("../Media/Image/pnddat.png");
+	width: 80%;
+	margin-left: 10%;
+	margin-right: auto;
+}
+img.paradt{
+	content: url("../Media/Image/paradt.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.sisdem{
+	content: url("../Media/Image/sisdem.jpg");
+	width: 70%;
+	margin-left: 15%;
+	margin-right: auto;
+}
+img.pdetcp{
+	content: url("../Media/Image/pdetcp.jpg");
+	width: 100%;
+	margin-left: 0%;
+	margin-right: auto;
+}
+img.youtube{
+	content: url("../Media/Image/youtube.png");
+	width: 20%;
+	margin-left: 37%;
+	margin-right: auto;
+}
+
+
+/* Bloque de textos */
+
+p.raleway{
+	font-family: 'Raleway';
+	color: white;
+	font-size: 200%;
+}
+.texto{
+	font-family: 'Noto Serif';
+	margin-left: 0;
+	color: black;
+	font-size: 150%;
+}
+.textoV{
+	font-family: 'Noto Serif';
+	margin-left: auto;
+	color: black;
+	font-size: 150%;
+}
+.textoIm{
+	font-family: 'Noto Serif';
+	margin-left: 0;
+	color: black;
+	font-size: 100%;
+}
+
+.texto2{
+	color: white;
+	font-size: 30px;
+	position: absolute;
+	top: 50%;
+	left: 52%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}
+
+
+/* Bloque de divisiones */
+
+div.img{
+	width: 30%;
+	height: auto;
+	border: 2px solid;
+	border-color: black;
+	float: right;
+	margin: 10px;
+	margin-top: 5%;
+	margin-right: 5%;
+	padding: 0;
+}
+
+div.titulo{
+	width: 102%;
+	height: 5%;
+	border: none;
+	margin: -20px;
+	padding: 1px; 
+	background-color: black;
+}
+div.textos{
+	width: 90%;
+	height: 100%;
+	border: none;
+	border-color: black;
+	margin: 10px;
+	margin-left: 5%;
+	padding: 0; 
+}
+div.textoImg{
+	width: 60%;
+	height: auto;
+	border: none;
+	border-color: black;
+	margin: 10px;
+	margin-left: 1%;
+	float: left;
+	padding: 0;
+}
+div.imgCentro{
+	width: 40%;
+	height: auto;
+	border: none;
+	border-color: black;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+}
+div.videos{
+	width: 50%;
+	height: auto;
+	border: none;
+	border-color: black;
+	margin-top: 0;
+	margin-left: 25%;
+	margin-right: auto;
+	padding: 10px;
+}
+div.ti{
+	width: 47%;
+	height: auto;
+	border: none;
+	border-color: black;
+	margin: 10px;
+	margin-left: 2%;
+	float: left;
+	padding: 0;
+}
+div.td{
+	width: 47%;
+	height: auto;
+	border: none;
+	border-color: black;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: 2%;
+	float: inline;
+	padding: 0;
+}
+
+/* Bloque del Hover Overlay */
+
+.container{
+	position: relative;
+	width: 300px;
+}
+.image{
+	content: url("");
+	width: 300px;
+	height: 500px;
+}
+.overlay{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 300px;
+	width: 500px;
+	opacity: 0;
+	transition: 1s ease;
+	background-color: black;
+}
+.container:hover .overlay {
+	opacity: 0.7;
+}
